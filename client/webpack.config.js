@@ -34,11 +34,13 @@ module.exports = () => {
         description: 'Text editor',
         background_color: '#2262A6',
         theme_color: '#2262A6',
-        crossorigin: 'anonymous',
+        start_url: '/',
+        publicPath: '/',
         icons:
           {
             src: path.resolve('src/images/logo.png'),
             sizes: [96, 128, 192, 256, 384, 512],
+            destination: path.join('assets', 'icons'),
           },
       }),
     ],
