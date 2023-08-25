@@ -13,7 +13,7 @@
   </ol>
 
 ## <span id="preview">Preview:</span>
-  <a href="">Deployment</a>
+  <a href="https://text-editor-hw-019-ab8c4b751f48.herokuapp.com/">Deployment</a>
   <img src="./client/src/images/jatepreview.PNG">
 
 ## <span id="license">License:</span>
