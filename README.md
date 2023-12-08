@@ -1,7 +1,7 @@
 # JUST ANOTHER TEXT EDITOR
   ![License](https://img.shields.io/static/v1.svg?label=License&message=MIT%20License&color=blue)
 ## Description:
-  <span id="description">This is a text editor. It is accessible through the browser and/or locally; users may access entered text both on and offline.</span>
+  <span id="description">This is a text editor. It is accessible through the browser and/or locally; users may access entered text both on and offline (featuring persistent text storage).</span>
   
 ## Table of Contents:
   <ol>
